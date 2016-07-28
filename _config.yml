@@ -1,10 +1,10 @@
 # Site specific settings
-title: "Title to this website"
-name: "Website name"
+title: "Sapient Dreams"
+name: "Sapient Dreams"
 keywords: "Key, words, about, this, website"
 baseurl: "/darcli"
-url: "http://website.com"
-description: "Website description"
+url: "http://sapientdreams.com"
+description: "Here is the description of Sapient Dreams"
 cover: "/assets/img/cover.svg"
 fanpage_id: ""
 
